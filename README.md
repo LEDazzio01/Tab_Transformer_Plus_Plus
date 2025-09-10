@@ -1,3 +1,15 @@
+<!-- Badges -->
+![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+
+<!-- If you choose Apache-2.0 instead, use the next line and remove the MIT badge above -->
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE)
+
+<!-- Replace the DOI badge after you mint a DOI via Zenodo -->
+[![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
+![Reproducible OOF](https://img.shields.io/badge/OOF-Reproducible-brightgreen.svg)
+![Status](https://img.shields.io/badge/status-Research%2FPrototype-purple.svg)
+
+
 # TabTransformer++ — Residualized, Calibrated Transformer for Tabular Data (PS‑S5E9)
 
 **TabTransformer++** extends TabTransformer for tabular ML with four practical innovations that make it work in weak‑signal settings:  
@@ -123,7 +135,7 @@ matplotlib, seaborn, tqdm
 
 ## License & Citation
 
-- **License:** MIT (or Apache‑2.0).  
+- **License:** Apache‑2.0  
 - **Cite this work:** add a `CITATION.cff` like:
 
 ```yaml
@@ -137,3 +149,22 @@ repository-code: "https://github.com/LEDazzio01/Tab_Transformer_Plus_Plus"
 version: "0.1.0"
 date-released: "2025-09-09"
 ```
+
+## 📚 Citation
+
+If you use **TabTransformer++** in academic work or production, please cite:
+
+> Dazzio, L. Elaine. *TabTransformer++: Residualized, Calibrated Transformer for Tabular Data (PS-S5E9).* GitHub, 2025.  
+> https://github.com/LEDazzio01/Tab_Transformer_Plus_Plus
+
+### BibTeX
+```bibtex
+@software{dazzio2025_tabtransformerpp,
+  author  = {Dazzio, L. Elaine},
+  title   = {TabTransformer++: Residualized, Calibrated Transformer for Tabular Data (PS-S5E9)},
+  year    = {2025},
+  version = {0.1.0},
+  url     = {https://github.com/LEDazzio01/Tab_Transformer_Plus_Plus},
+  note    = {Code, OOF/TEST artifacts, and reproducibility materials}
+}
+
