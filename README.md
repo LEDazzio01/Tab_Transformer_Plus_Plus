@@ -1,10 +1,11 @@
+<p align="center">
+  <img src="ChatGPT Image Sep 9, 2025, 09_24_45 PM.png" alt="TabTransformer++ banner" width="1000">
+</p>
+
+
 <!-- Badges -->
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-
-<!-- If you choose Apache-2.0 instead, use the next line and remove the MIT badge above -->
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](./LICENSE)
-
-<!-- Replace the DOI badge after you mint a DOI via Zenodo -->
 [![DOI](https://img.shields.io/badge/DOI-pending-lightgrey.svg)](#)
 ![Reproducible OOF](https://img.shields.io/badge/OOF-Reproducible-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-Research%2FPrototype-purple.svg)
